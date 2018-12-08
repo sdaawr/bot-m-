@@ -1,4 +1,4 @@
-﻿token=NTE0OTQ3MzMxNzU4NjIwNzMz.Du2bVw.8DkMF1jtQ4dtLamWFlc_gWowFsA
+﻿token=NTE0OTQ3MzMxNzU4NjIwNzMz.Du2xyw.Ww2yZbMKqr3R6Bo0Zwzp9uIUnu8
 owner=419550777468780546
 prefix= +
 game= Server A9l+help
