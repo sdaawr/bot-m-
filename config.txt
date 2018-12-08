@@ -1,0 +1,6 @@
+﻿token=NTE0OTQ3MzMxNzU4NjIwNzMz.Du2bVw.8DkMF1jtQ4dtLamWFlc_gWowFsA
+owner=419550777468780546
+prefix= +
+game= Server A9l+help
+stayinchannel=false
+songinstatus=true 
