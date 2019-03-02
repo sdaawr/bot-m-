@@ -1,6 +1,6 @@
-﻿token=NTE0OTQ3MzMxNzU4NjIwNzMz.Du2xyw.Ww2yZbMKqr3R6Bo0Zwzp9uIUnu8
+﻿token=NTM0MDMwMzM3MzEyMDMwNzYw.D1xg0w.5ymMbSxwv6W6aJdR4EAUe2xNz0g
 owner=419550777468780546
-prefix= +
-game= Server A9l+help
+prefix= *
+game= I LoVe One ... ♥
 stayinchannel=false
 songinstatus=true 
