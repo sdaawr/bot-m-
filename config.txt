@@ -1,6 +1,0 @@
-﻿token=NTM0MDMwMzM3MzEyMDMwNzYw.D1xg0w.5ymMbSxwv6W6aJdR4EAUe2xNz0g
-owner=419550777468780546
-prefix= *
-game= I LoVe One ... ♥
-stayinchannel=false
-songinstatus=true 
